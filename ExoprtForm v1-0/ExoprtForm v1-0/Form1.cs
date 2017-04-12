@@ -19,7 +19,7 @@ namespace ExoprtForm_v1_0
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Version now is 2.0!!!");
+            MessageBox.Show("Version now is 1.0!!!");
         }
 
         private void label1_Click(object sender, EventArgs e)
