@@ -40,7 +40,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(60, 13);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Version 1.0";
+            this.label1.Text = "Version 2.0";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button1
@@ -56,12 +56,12 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(1, 90);
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.Location = new System.Drawing.Point(39, 103);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(274, 25);
+            this.label2.Size = new System.Drawing.Size(196, 24);
             this.label2.TabIndex = 2;
-            this.label2.Text = "What\'s News in Version 2.0";
+            this.label2.Text = "New Version 2.0 Up";
             // 
             // Form1
             // 
