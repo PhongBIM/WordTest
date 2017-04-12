@@ -1,0 +1,9 @@
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\bin\Debug\ExoprtForm v1-0.exe.config
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\bin\Debug\ExoprtForm v1-0.exe
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\bin\Debug\ExoprtForm v1-0.pdb
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm v1-0.csprojResolveAssemblyReference.cache
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm_v1_0.Form1.resources
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm_v1_0.Properties.Resources.resources
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm v1-0.csproj.GenerateResource.Cache
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm v1-0.exe
+E:\PHONG\GITHUB PROJECT\WordTest\ExoprtForm v1-0\ExoprtForm v1-0\obj\Debug\ExoprtForm v1-0.pdb
